@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "taddy";
+    src: url("fonts/teddy-bear.ttf");
+}
+
+h1 {
+    color: #F00;
+    font-family: "taddy", sans-serif;
+}
+
+h2 {
+    color: yellow;
+}
+
+a {
+    color: rgb(12, 199, 84);
+}
+
+a:hover {
+    color: #F00;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+img {
+    width: 300px;
+    border: 3px solid black;
+    margin-left: 50px;
+}
+
+.big_text {
+    font-size: 1.5rem;
+}
+
+ul {
+    list-style-type: square;
+}
+
+#wrapper {
+    width: 600px;
+    margin: 0 auto;
+    background-color: azure;
+}
